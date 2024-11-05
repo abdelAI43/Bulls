@@ -3,3 +3,5 @@ Initial commit
 I hope this works
 
 Challenge for Bradley: try not to laugh (Level very hard)
+
+git add images/my_image.png
