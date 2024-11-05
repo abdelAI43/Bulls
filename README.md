@@ -4,4 +4,4 @@ I hope this works
 
 Challenge for Bradley: try not to laugh (Level very hard)
 
-[View Tamping Rammer Image](tamper.jpeg)
+[Challenge](tamper.jpeg)
